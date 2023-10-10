@@ -136,6 +136,31 @@ The client used the WebApp.InitData to validate the request on the server side
 
 The client used the WebApp.InitData to validate the request on the server side
 
+## Libraies Used
+
+## Server
+
+- [Amadeus](https://developers.amadeus.com/)
+- [Body Parser](https://www.npmjs.com/package/body-parser)
+
+- [Cors](https://www.npmjs.com/package/cors)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Express](https://www.npmjs.com/package/express)
+- [Level](https://www.npmjs.com/package/level)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Telegraf](https://www.npmjs.com/package/telegraf)
+- [Uuid](https://www.npmjs.com/package/uuid)
+
+## Client
+
+- [Lottie Player](https://www.npmjs.com/package/@lottiefiles/lottie-player)
+- [Vue Datepicker](https://www.npmjs.com/package/@vuepic/vue-datepicker)
+- [Moment](https://www.npmjs.com/package/moment)
+- [Pinia](https://www.npmjs.com/package/pinia)
+- [Tailwindcss Ripple](https://www.npmjs.com/package/tailwindcss-ripple)
+- [V Wave](https://www.npmjs.com/package/v-wave)
+- [Vite Plugin Mkcert](https://www.npmjs.com/package/vite-plugin-mkcert)
+
 ## License
 
 MIT
