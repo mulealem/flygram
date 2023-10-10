@@ -35,7 +35,17 @@ The server will create a invoice link and send it to the client, the client then
 
 ## Screenshots
 
-<!-- ![Screenshot 1]( -->
+![Loading Screen](https://flygram.netlify.app/photo_2023-10-10_21-50-06.jpg)
+
+![City/Airport Search Screen](https://flygram.netlify.app/photo_2023-10-10_21-50-08.jpg)
+
+![Search Paramenters 1](https://flygram.netlify.app/photo_2023-10-10_21-50-16.jpg)
+
+![Search Paramenters 2](https://flygram.netlify.app/photo_2023-10-10_21-50-18.jpg)
+
+![Search Results](https://flygram.netlify.app/photo_2023-10-10_21-50-26.jpg)
+
+![Search Result Detail](https://flygram.netlify.app/photo_2023-10-10_21-50-28.jpg)
 
 ## Setup
 
@@ -109,3 +119,23 @@ Note: nodemon is a dev dependency, so you will need to install it if you do not 
 11. The application will display the available flights based on your search criteria
 12. Select a flight
 13. Review the booking details and click on the "Book Now" button to confirm the booking
+
+## How Telegram Library is utilized
+
+The navigation is done using The Backbutton and Main button
+
+The client used the cloudStorage to store recent locations
+
+The client used the openInvoice method to display the invoice link
+
+The client used the themeChanged event to update the theme
+
+The client used the colorScheme event to update the theme
+
+The client used the WebApp.InitData to validate the request on the server side
+
+The client used the WebApp.InitData to validate the request on the server side
+
+## License
+
+MIT
