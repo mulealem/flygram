@@ -122,9 +122,9 @@ Note: nodemon is a dev dependency, so you will need to install it if you do not 
 
 ## How Telegram Library is utilized
 
-The navigation is done using The Backbutton and Main button
+The navigation is done using The [Backbutton](https://core.telegram.org/bots/webapps#backbutton) and Main button
 
-The client used the cloudStorage to store recent locations
+The client used the [cloudStorage](https://core.telegram.org/bots/webapps#cloudstorage) to store recent locations
 
 The client used the openInvoice method to display the invoice link
 
