@@ -54,7 +54,8 @@ For Client
 cd client
 npm install or yarn install
 cp .env.example .env
-// add Server API key to .env file
+// add Server API URL to .env file
+VITE_SERVER_API=
 ```
 
 For Server
